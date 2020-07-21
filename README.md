@@ -1,5 +1,14 @@
 ### Hey!
 
+#### What am I learning?
+
+- [Rust](https://www.rust-lang.org)
+- [React](https://reactjs.org/)
+- [SASS/SCSS](https://sass-lang.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [ASP.NET Core](https://dotnet.microsoft.com/apps/aspnet)
+- [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)
+
 #### What do I want to learn?
 
 - Game development with Unity
@@ -12,13 +21,3 @@
 - [`pep9-asm`](https://marketplace.visualstudio.com/items?itemName=icorbrey.pep9-asm) - Language support for the Pep/9 assembly language in VS Code.
 - [`www.isaaccorbrey.com`](https://www.isaaccorbrey.com) - My personal website, made with React, Typescript, and SCSS.
 - [`react-context-stateful`](https://www.npmjs.com/package/react-context-stateful) - A simple wrapper that makes it easy to create simple, stateful contexts.
-
-
-#### What am I learning?
-
-- [Rust](https://www.rust-lang.org)
-- [React](https://reactjs.org/)
-- [SASS/SCSS](https://sass-lang.com/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [ASP.NET Core](https://dotnet.microsoft.com/apps/aspnet)
-- [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)
