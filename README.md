@@ -1,5 +1,11 @@
 ### Hey!
 
+#### What do I want to learn?
+
+- Game development with Unity
+- Native app development with Kotlin and Swift
+- Functional programming (e.g. Haskell, OCaml, etc.)
+
 #### What have I made?
 
 - [`homepage`](https://icorbrey-homepage.netlify.app) - A simple homepage, made with React.
@@ -16,9 +22,3 @@
 - [TypeScript](https://www.typescriptlang.org/)
 - [ASP.NET Core](https://dotnet.microsoft.com/apps/aspnet)
 - [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)
-
-#### What do I want to learn?
-
-- Game development with Unity
-- Native app development with Kotlin and Swift
-- Functional programming (e.g. Haskell, OCaml, etc.)
