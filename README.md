@@ -1,5 +1,11 @@
 ### Hey!
 
+#### What do I do?
+
+- I'm a student at [Indiana Tech](https://www.indianatech.edu/) going for my Bachelor's degree in Computer Science.
+- I'm an intern at [Aptera](https://www.apterainc.com/), learning about clean coding strategies, full-stack web development, TDD, and more.
+- I contribute fixes to [Cargo](https://www.github.com/rust-lang/cargo) when I can.
+
 #### What am I learning?
 
 - [Rust](https://www.rust-lang.org)
