@@ -3,26 +3,12 @@
 #### What do I do?
 
 - I'm a student at [Indiana Tech](https://www.indianatech.edu/) going for my Bachelor's degree in Computer Science.
-- I'm an intern at [Aptera](https://www.apterainc.com/), learning about clean coding strategies, full-stack web development, TDD, and more.
+- I'm an intern at [Aptera](https://www.apterainc.com/), currently working on a specialized React/ASP.NET PWA for a global client.
 - I contribute fixes to [Cargo](https://www.github.com/rust-lang/cargo) when I can.
-
-#### What am I learning?
-
-- [Rust](https://www.rust-lang.org)
-- [React](https://reactjs.org/)
-- [SASS/SCSS](https://sass-lang.com/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [ASP.NET Core](https://dotnet.microsoft.com/apps/aspnet)
-- [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)
-
-#### What do I want to learn?
-
-- Game development with Unity
-- Native app development with Kotlin and Swift
-- Functional programming (e.g. Haskell, OCaml, etc.)
 
 #### What have I made?
 
+- [`sauron`](https://www.github.com/icorbrey/sauron) - A simple utility for searching for packages on the AUR.
 - [`homepage`](https://icorbrey-homepage.netlify.app) - A simple homepage, made with React.
 - [`pep9-asm`](https://marketplace.visualstudio.com/items?itemName=icorbrey.pep9-asm) - Language support for the Pep/9 assembly language in VS Code.
 - [`www.isaaccorbrey.com`](https://www.isaaccorbrey.com) - My personal website, made with React, Typescript, and SCSS.
