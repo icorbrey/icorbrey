@@ -8,6 +8,8 @@ to use!
 #### Here's some awesome stuff I'm working on:
 
 - [`transmute`][2] - An alchemical refactoring extension for JavaScript.
+- [`garbonzo`][8] - An interaction layer for better management of GitHub issues and pull
+  requests. 
 - [`rolomem`][3] - An embedded membership barcode keeper built using the Raspberry Pi
   Pico. 
 - [`continuous-releases`][4] - A GitHub Action that helps automate releases with semver
@@ -36,3 +38,4 @@ time. Sponsoring me is the best way to help me devote more time to my projects!
 [5]: https://github.com/icorbrey/sauron
 [6]: https://github.com/icorbrey/pep9-asm
 [7]: https://github.com/icorbrey/react-context-stateful
+[8]: https://github.com/icorbrey/garbonzo
