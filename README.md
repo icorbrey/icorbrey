@@ -1,19 +1,38 @@
-### Hey!
+### Hey there! 👋
 
-#### What do I do?
+I'm currently a senior at Indiana Tech, working on my Bachelor's in CS. When I'm not
+learning full time at school or working part time at Aptera, I write blog posts about
+things that I find interesting and create cool open source projects, free for everyone
+to use!
 
-- I'm a student at [Indiana Tech](https://www.indianatech.edu/) going for my Bachelor's degree in Computer Science.
-- I'm an intern at [Aptera](https://www.apterainc.com/), currently working on a specialized React/ASP.NET PWA for a global client.
-- I contribute fixes to [Cargo](https://www.github.com/rust-lang/cargo) when I can.
+#### Here's some awesome stuff I'm working on:
 
-#### What have I made?
+- [`transmute`][2] - An alchemical refactoring extension for JavaScript.
+- [`rolomem`][3] - An embedded membership barcode keeper built using the Raspberry Pi
+  Pico. 
+- [`continuous-releases`][4] - A GitHub Action that helps automate releases with semver
+  tagging and auto-generated changelogs.
+  
+#### Interested in my blog?
 
-- [`sauron`](https://www.github.com/icorbrey/sauron) - A simple utility for searching for packages on the AUR.
-- [`homepage`](https://icorbrey-homepage.netlify.app) - A simple homepage, made with React.
-- [`pep9-asm`](https://marketplace.visualstudio.com/items?itemName=icorbrey.pep9-asm) - Language support for the Pep/9 assembly language in VS Code.
-- [`www.isaaccorbrey.com`](https://www.isaaccorbrey.com) - My personal website, made with React, Typescript, and SCSS.
-- [`react-context-stateful`](https://www.npmjs.com/package/react-context-stateful) - A simple wrapper that makes it easy to create simple, stateful contexts.
+Come read my thoughts at https://blog.isaaccorbrey.com!
 
 #### Like what I do?
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A51YFI3)
+[Consider sponsoring me][1]! Open source development is a passion of mine, but it takes
+time. Sponsoring me is the best way to help me devote more time to my projects!
+  
+#### Looking for some of my older projects?
+
+- [`sauron`][5] - A utility for searching for packages on the AUR.
+- [`pep9-asm`][6] - Language support for the Pep/9 assembly language in VS Code.
+- [`react-context-stateful`][7] - A simple wrapper that makes it easy to create stateful
+  contexts.
+
+[1]: https://github.com/sponsors/icorbrey
+[2]: https://github.com/icorbrey/transmute
+[3]: https://github.com/icorbrey/rolomem
+[4]: https://github.com/icorbrey/continuous-releases
+[5]: https://github.com/icorbrey/sauron
+[6]: https://github.com/icorbrey/pep9-asm
+[7]: https://github.com/icorbrey/react-context-stateful
