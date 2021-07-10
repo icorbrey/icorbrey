@@ -7,35 +7,47 @@ to use!
 
 #### Here's some awesome stuff I'm working on:
 
-- [`transmute`][2] - An alchemical refactoring extension for JavaScript.
-- [`garbonzo`][8] - An interaction layer for better management of GitHub issues and pull
-  requests. 
-- [`rolomem`][3] - An embedded membership barcode keeper built using the Raspberry Pi
-  Pico. 
-- [`continuous-releases`][4] - A GitHub Action that helps automate releases with semver
-  tagging and auto-generated changelogs.
+**[`icorbrey/transmute`][repo-transmute]** - An alchemical refactoring extension for JavaScript.  
+**[`icorbrey/rolomem`][repo-rolomem]** - An embedded membership barcode keeper built using the Raspberry Pi Pico.  
+**[`icorbrey/garbonzo`][repo-garbonzo]** - An interaction layer for better management of GitHub issues and pull requests.  
+**[`icorbrey/continuous-releases`][repo-continuous-releases]** - A GitHub Action that helps automate releases with semver tagging and auto-generated changelogs.
   
 #### Interested in my blog?
 
-Come read my thoughts at https://blog.isaaccorbrey.com!
+Come read my thoughts at <blog.isaaccorbrey.com>!
 
 #### Like what I do?
 
-[Consider sponsoring me][1]! Open source development is a passion of mine, but it takes
+[Consider sponsoring me][sponsor-profile]! Open source development is a passion of mine, but it takes
 time. Sponsoring me is the best way to help me devote more time to my projects!
   
 #### Looking for some of my older projects?
 
-- [`sauron`][5] - A utility for searching for packages on the AUR.
-- [`pep9-asm`][6] - Language support for the Pep/9 assembly language in VS Code.
-- [`react-context-stateful`][7] - A simple wrapper that makes it easy to create stateful
+**[`sauron`][repo-sauron]** - A utility for searching for packages on the AUR.  
+**[`pep9-asm`][repo-pep9-asm]** - Language support for the Pep/9 assembly language in VS Code.  
+**[`react-context-stateful`][repo-react-context-stateful]** - A simple wrapper that makes it easy to create stateful
   contexts.
+  
+---
 
-[1]: https://github.com/sponsors/icorbrey
-[2]: https://github.com/icorbrey/transmute
-[3]: https://github.com/icorbrey/rolomem
-[4]: https://github.com/icorbrey/continuous-releases
-[5]: https://github.com/icorbrey/sauron
-[6]: https://github.com/icorbrey/pep9-asm
-[7]: https://github.com/icorbrey/react-context-stateful
-[8]: https://github.com/icorbrey/garbonzo
+[![][badge-linkedin]][social-linkedin]
+[![][badge-medium]][social-medium]
+[![][badge-twitter]][social-twitter]
+
+[sponsor-profile]: https://github.com/sponsors/icorbrey "Sponsor @icorbrey on GitHub"
+
+[social-linkedin]: https://linkedin.com/in/icorbrey "Connect with Isaac Corbrey on LinkedIn"
+[social-medium]: https://blog.isaaccorbrey.com "Follow Isaac Corbrey on Medium"
+[social-twitter]: https://twitter.com/icorbrey "Follow Isaac Corbrey on Twitter"
+
+[badge-linkedin]: https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=linkedin&logoColor=white&labelColor=0A66C2&message=/in/icorbrey&color=333333
+[badge-medium]: https://img.shields.io/static/v1?style=for-the-badge&logo=medium&label=medium&logoColor=white&labelColor=000000&message=@icorbrey&color=333333
+[badge-twitter]: https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&label=twitter&logoColor=white&labelColor=1DA1F2&message=@icorbrey&color=333333
+
+[repo-sauron]: https://github.com/icorbrey/sauron "Check out icorbrey/sauron on GitHub"
+[repo-rolomem]: https://github.com/icorbrey/rolomem "Check out icorbrey/rolomem on GitHub"
+[repo-garbonzo]: https://github.com/icorbrey/garbonzo "Check out icorbrey/garbonzo on GitHub"
+[repo-pep9-asm]: https://github.com/icorbrey/pep9-asm "Check out icorbrey/pep9-asm on GitHub"
+[repo-transmute]: https://github.com/icorbrey/transmute "Check out icorbrey/transmute on GitHub"
+[repo-continuous-releases]: https://github.com/icorbrey/continuous-releases "Check out icorbrey/continuous-releases on GitHub"
+[repo-react-context-stateful]: https://github.com/icorbrey/react-context-stateful "Check out icorbrey/react-context-stateful on GitHub"
