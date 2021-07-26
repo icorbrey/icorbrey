@@ -23,9 +23,9 @@ time. Sponsoring me is the best way to help me devote more time to my projects!
   
 #### Looking for some of my older projects?
 
-**[`sauron`][repo-sauron]** - A utility for searching for packages on the AUR.  
-**[`pep9-asm`][repo-pep9-asm]** - Language support for the Pep/9 assembly language in VS Code.  
-**[`react-context-stateful`][repo-react-context-stateful]** - A simple wrapper that makes it easy to create stateful
+**[`icorbrey/sauron`][repo-sauron]** - A utility for searching for packages on the AUR.  
+**[`icorbrey/pep9-asm`][repo-pep9-asm]** - Language support for the Pep/9 assembly language in VS Code.  
+**[`icorbrey/react-context-stateful`][repo-react-context-stateful]** - A simple wrapper that makes it easy to create stateful
   contexts.
   
 ---
