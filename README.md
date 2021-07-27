@@ -8,8 +8,8 @@ to use!
 #### Here's some awesome stuff I'm working on:
 
 **[`icorbrey/transmute`][repo-transmute]** - An alchemical refactoring extension for JavaScript.  
+**[`icorbrey/aduitor`][repo-aduitor]** - A GitHub App for automating project management.  
 **[`icorbrey/rolomem`][repo-rolomem]** - An embedded membership barcode keeper built using the Raspberry Pi Pico.  
-**[`icorbrey/garbonzo`][repo-garbonzo]** - An interaction layer for better management of GitHub issues and pull requests.  
 **[`icorbrey/continuous-releases`][repo-continuous-releases]** - A GitHub Action that helps automate releases with semver tagging and auto-generated changelogs.
   
 #### Interested in my blog?
@@ -41,8 +41,8 @@ time. Sponsoring me is the best way to help me devote more time to my projects!
 [social-linkedin]: https://linkedin.com/in/icorbrey "Connect with Isaac Corbrey on LinkedIn"
 
 [repo-sauron]: https://github.com/icorbrey/sauron "Check out icorbrey/sauron on GitHub"
+[repo-aduitor]: https://github.com/icorbrey/aduitor "Check out icorbrey/aduitor on GitHub"
 [repo-rolomem]: https://github.com/icorbrey/rolomem "Check out icorbrey/rolomem on GitHub"
-[repo-garbonzo]: https://github.com/icorbrey/garbonzo "Check out icorbrey/garbonzo on GitHub"
 [repo-pep9-asm]: https://github.com/icorbrey/pep9-asm "Check out icorbrey/pep9-asm on GitHub"
 [repo-transmute]: https://github.com/icorbrey/transmute "Check out icorbrey/transmute on GitHub"
 [repo-continuous-releases]: https://github.com/icorbrey/continuous-releases "Check out icorbrey/continuous-releases on GitHub"
