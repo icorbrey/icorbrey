@@ -8,7 +8,7 @@ to use!
 #### Here's some awesome stuff I'm working on:
 
 **[`icorbrey/transmute`][repo-transmute]** - An alchemical refactoring extension for JavaScript.  
-**[`icorbrey/aduitor`][repo-aduitor]** - A GitHub App for automating project management.  
+**[`icorbrey/captain-bots-a-lot`][repo-captain-bots-a-lot]** - A GitHub App for automating project management.  
 **[`icorbrey/rolomem`][repo-rolomem]** - An embedded membership barcode keeper built using the Raspberry Pi Pico.  
 **[`icorbrey/continuous-releases`][repo-continuous-releases]** - A GitHub Action that helps automate releases with semver tagging and auto-generated changelogs.
   
@@ -41,10 +41,10 @@ time. Sponsoring me is the best way to help me devote more time to my projects!
 [social-linkedin]: https://linkedin.com/in/icorbrey "Connect with Isaac Corbrey on LinkedIn"
 
 [repo-sauron]: https://github.com/icorbrey/sauron "Check out icorbrey/sauron on GitHub"
-[repo-aduitor]: https://github.com/icorbrey/aduitor "Check out icorbrey/aduitor on GitHub"
 [repo-rolomem]: https://github.com/icorbrey/rolomem "Check out icorbrey/rolomem on GitHub"
 [repo-pep9-asm]: https://github.com/icorbrey/pep9-asm "Check out icorbrey/pep9-asm on GitHub"
 [repo-transmute]: https://github.com/icorbrey/transmute "Check out icorbrey/transmute on GitHub"
+[repo-captain-bots-a-lot]: https://github.com/icorbrey/captain-bots-a-lot "Check out icorbrey/captain-bots-a-lot on GitHub"
 [repo-continuous-releases]: https://github.com/icorbrey/continuous-releases "Check out icorbrey/continuous-releases on GitHub"
 [repo-react-context-stateful]: https://github.com/icorbrey/react-context-stateful "Check out icorbrey/react-context-stateful on GitHub"
 
