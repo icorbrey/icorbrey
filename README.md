@@ -7,6 +7,7 @@ to use!
 
 #### Here's some awesome stuff I'm working on:
 
+**[`icorbrey/cisco_ios_dsl`][repo-cisco-ios-dsl]** - A DSL for constructing Cisco IOS device configurations.
 **[`icorbrey/transmute`][repo-transmute]** - An alchemical refactoring extension for JavaScript.  
 **[`icorbrey/trackinator`][repo-trackinator]** - A GitHub App for automating project management.  
 **[`icorbrey/rolomem`][repo-rolomem]** - An embedded membership barcode keeper built using the Raspberry Pi Pico.  
@@ -45,6 +46,7 @@ time. Sponsoring me is the best way to help me devote more time to my projects!
 [repo-pep9-asm]: https://github.com/icorbrey/pep9-asm "Check out icorbrey/pep9-asm on GitHub"
 [repo-transmute]: https://github.com/icorbrey/transmute "Check out icorbrey/transmute on GitHub"
 [repo-trackinator]: https://github.com/icorbrey/trackinator "Check out icorbrey/trackinator on GitHub"
+[repo-cisco-ios-dsl]: https://github.com/icorbrey/cisco_ios_dsl "Check out icorbrey/cisco_ios_dsl on GitHub"
 [repo-continuous-releases]: https://github.com/icorbrey/continuous-releases "Check out icorbrey/continuous-releases on GitHub"
 [repo-react-context-stateful]: https://github.com/icorbrey/react-context-stateful "Check out icorbrey/react-context-stateful on GitHub"
 
