@@ -5,14 +5,15 @@ Here's where I do it.
 
 ### Problems that are annoying me right now:
 
-[![][repo-icon] cisco_ios_dsl][icorbrey/cisco_ios_dsl]  
-[![][repo-icon] violentmonkey-scripts][icorbrey/violentmonkey-scripts]  
+[![][repo-icon] **`cisco_ios_dsl`**][icorbrey/cisco_ios_dsl] - A DSL for constructing Cisco IOS device configurations.  
+[![][repo-icon] **`violentmonkey-scripts`**][icorbrey/violentmonkey-scripts] - A collection of ViolentMonkey scripts that I use regularly.  
   
 ### Problems that used to annoy me:
 
-[![][repo-icon] pep9-asm][icorbrey/pep9-asm]  
-[![][repo-icon] react-context-stateful][icorbrey/react-context-stateful]  
-[![][repo-icon] sauron][icorbrey/sauron]
+[![][repo-icon] **`pep9-asm`**][icorbrey/pep9-asm] - Language support for the Pep/9 assembly language in VS Code.  
+[![][repo-icon] **`react-context-stateful`**][icorbrey/react-context-stateful] - A simple wrapper that makes it easy to create simple, stateful contexts.   
+[![][repo-icon] **`sauron`**][icorbrey/sauron] - A simple utility for searching for packages on the AUR.  
+[![][repo-icon] **`uncertain`**][icorbrey/uncertain] - Defines a mathematically uncertain number type for scientific applications.  
 
 ### Give me money.
 
@@ -30,6 +31,7 @@ I'll find more problems to fix.
 
 [icorbrey/sauron]: https://github.com/icorbrey/sauron "Check out icorbrey/sauron on GitHub"
 [icorbrey/pep9-asm]: https://github.com/icorbrey/pep9-asm "Check out icorbrey/pep9-asm on GitHub"
+[icorbrey/uncertain]: https://github.com/icorbrey/uncertain "Check out icorbrey/uncertain on GitHub"
 [icorbrey/cisco_ios_dsl]: https://github.com/icorbrey/cisco_ios_dsl "Check out icorbrey/cisco_ios_dsl on GitHub"
 [icorbrey/violentmonkey-scripts]: https://github.com/icorbrey/violentmonkey-scripts "Check out icorbrey/violentmonkey-scripts on GitHub"
 [icorbrey/react-context-stateful]: https://github.com/icorbrey/react-context-stateful "Check out icorbrey/react-context-stateful on GitHub"
