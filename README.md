@@ -1,33 +1,23 @@
-### Hey there! 👋
+### I'm an engineer.
 
-I'm currently a senior at Indiana Tech, working on my Bachelor's in CS. When I'm not
-learning full time at school or working part time at Aptera, I write blog posts about
-things that I find interesting and create cool open source projects, free for everyone
-to use!
+I solve problems. If something annoys me, I'll make it stop one way or another.
+Here's where I do it.
 
-#### Here's some awesome stuff I'm working on:
+#### Problems that are annoying me right now:
 
 **[`icorbrey/cisco_ios_dsl`][repo-cisco-ios-dsl]** - A DSL for constructing Cisco IOS device configurations.  
-**[`icorbrey/transmute`][repo-transmute]** - An alchemical refactoring extension for JavaScript.  
-**[`icorbrey/trackinator`][repo-trackinator]** - A GitHub App for automating project management.  
-**[`icorbrey/rolomem`][repo-rolomem]** - An embedded membership barcode keeper built using the Raspberry Pi Pico.  
-**[`icorbrey/continuous-releases`][repo-continuous-releases]** - A GitHub Action that helps automate releases with semver tagging and auto-generated changelogs.
+**[`icorbrey/violentmonkey-scripts`][repo-violentmonkey-scripts]** - A collection of ViolentMonkey scripts that I use regularly.  
   
-#### Interested in my blog?
-
-Come read my thoughts at [blog.isaaccorbrey.com][social-medium]!
-
-#### Like what I do?
-
-[Consider sponsoring me][sponsor-profile]! Open source development is a passion of mine, but it takes
-time. Sponsoring me is the best way to help me devote more time to my projects!
-  
-#### Looking for some of my older projects?
+#### Problems that used to annoy me:
 
 **[`icorbrey/sauron`][repo-sauron]** - A utility for searching for packages on the AUR.  
 **[`icorbrey/pep9-asm`][repo-pep9-asm]** - Language support for the Pep/9 assembly language in VS Code.  
 **[`icorbrey/react-context-stateful`][repo-react-context-stateful]** - A simple wrapper that makes it easy to create stateful
   contexts.
+
+#### Give me money.
+
+[Give me money][sponsor-profile] and I'll find more problems to fix.
   
 ---
 
@@ -41,14 +31,12 @@ time. Sponsoring me is the best way to help me devote more time to my projects!
 [social-twitter]: https://twitter.com/icorbrey "Follow Isaac Corbrey on Twitter"
 [social-linkedin]: https://linkedin.com/in/icorbrey "Connect with Isaac Corbrey on LinkedIn"
 
-[repo-sauron]: https://github.com/icorbrey/sauron "Check out icorbrey/sauron on GitHub"
-[repo-rolomem]: https://github.com/icorbrey/rolomem "Check out icorbrey/rolomem on GitHub"
-[repo-pep9-asm]: https://github.com/icorbrey/pep9-asm "Check out icorbrey/pep9-asm on GitHub"
-[repo-transmute]: https://github.com/icorbrey/transmute "Check out icorbrey/transmute on GitHub"
-[repo-trackinator]: https://github.com/icorbrey/trackinator "Check out icorbrey/trackinator on GitHub"
-[repo-cisco-ios-dsl]: https://github.com/icorbrey/cisco_ios_dsl "Check out icorbrey/cisco_ios_dsl on GitHub"
-[repo-continuous-releases]: https://github.com/icorbrey/continuous-releases "Check out icorbrey/continuous-releases on GitHub"
-[repo-react-context-stateful]: https://github.com/icorbrey/react-context-stateful "Check out icorbrey/react-context-stateful on GitHub"
+[repo-sauron]: https://github.com/icorbrey/sauron "Visit icorbrey/sauron on GitHub"
+[repo-rolomem]: https://github.com/icorbrey/rolomem "Visit icorbrey/rolomem on GitHub"
+[repo-pep9-asm]: https://github.com/icorbrey/pep9-asm "Visit icorbrey/pep9-asm on GitHub"
+[repo-cisco-ios-dsl]: https://github.com/icorbrey/cisco_ios_dsl "Visit icorbrey/cisco_ios_dsl on GitHub"
+[repo-violentmonkey-scripts]: https://github.com/icorbrey/violentmonkey-scripts "Visit icorbrey/violentmonkey-scripts on GitHub"
+[repo-react-context-stateful]: https://github.com/icorbrey/react-context-stateful "Visit icorbrey/react-context-stateful on GitHub"
 
 [badge-medium]: https://img.shields.io/static/v1?style=for-the-badge&logo=medium&label=medium&logoColor=white&labelColor=000000&message=@icorbrey&color=333333
 [badge-twitter]: https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&label=twitter&logoColor=white&labelColor=1DA1F2&message=@icorbrey&color=333333
