@@ -1,20 +1,20 @@
-### I'm an engineer.
+## I'm an engineer.
 
 I solve problems. If something annoys me, I'll make it stop one way or another.
 Here's where I do it.
 
-#### Problems that are annoying me right now:
+### Problems that are annoying me right now:
 
 [![icorbrey/cisco_ios_dsl](https://github-readme-stats.vercel.app/api/pin/?username=icorbrey&repo=cisco_ios_dsl&theme=github_dark)](https://github.com/icorbrey/cisco_ios_dsl)
 [![icorbrey/violentmonkey-scripts](https://github-readme-stats.vercel.app/api/pin/?username=icorbrey&repo=violentmonkey-scripts&theme=github_dark)](https://github.com/icorbrey/violentmonkey-scripts)
   
-#### Problems that used to annoy me:
+### Problems that used to annoy me:
 
 [![icorbrey/pep9-asm](https://github-readme-stats.vercel.app/api/pin/?username=icorbrey&repo=pep9-asm&theme=github_dark)](https://github.com/icorbrey/pep9-asm)
 [![icorbrey/react-context-stateful](https://github-readme-stats.vercel.app/api/pin/?username=icorbrey&repo=react-context-stateful&theme=github_dark)](https://github.com/icorbrey/react-context-stateful)
 [![icorbrey/sauron](https://github-readme-stats.vercel.app/api/pin/?username=icorbrey&repo=sauron&theme=github_dark)](https://github.com/icorbrey/sauron)
 
-#### Give me money.
+### Give me money.
 
 Give me money using [GitHub Sponsors][sponsor-link] or [Ko-Fi][kofi-link] and
 I'll find more problems to fix.
