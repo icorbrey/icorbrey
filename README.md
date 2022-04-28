@@ -5,15 +5,15 @@ Here's where I do it.
 
 ### Problems that are annoying me right now:
 
-[![][repo-icon] **`cisco_ios_dsl`**][icorbrey/cisco_ios_dsl] - A DSL for constructing Cisco IOS device configurations.  
-[![][repo-icon] **`violentmonkey-scripts`**][icorbrey/violentmonkey-scripts] - A collection of ViolentMonkey scripts that I use regularly.  
+![][repo-icon]&nbsp;[**`cisco_ios_dsl`**][icorbrey/cisco_ios_dsl] - A DSL for constructing Cisco IOS device configurations.  
+![][repo-icon]&nbsp;[**`violentmonkey-scripts`**][icorbrey/violentmonkey-scripts] - A collection of ViolentMonkey scripts that I use regularly.  
   
 ### Problems that used to annoy me:
 
-[![][repo-icon] **`pep9-asm`**][icorbrey/pep9-asm] - Language support for the Pep/9 assembly language in VS Code.  
-[![][repo-icon] **`react-context-stateful`**][icorbrey/react-context-stateful] - A simple wrapper that makes it easy to create simple, stateful contexts.   
-[![][repo-icon] **`sauron`**][icorbrey/sauron] - A simple utility for searching for packages on the AUR.  
-[![][repo-icon] **`uncertain`**][icorbrey/uncertain] - Defines a mathematically uncertain number type for scientific applications.  
+![][repo-icon]&nbsp;[**`pep9-asm`**][icorbrey/pep9-asm] - Language support for the Pep/9 assembly language in VS Code.  
+![][repo-icon]&nbsp;[**`react-context-stateful`**][icorbrey/react-context-stateful] - A simple wrapper that makes it easy to create simple, stateful contexts.   
+![][repo-icon]&nbsp;[**`sauron`**][icorbrey/sauron] - A simple utility for searching for packages on the AUR.  
+![][repo-icon]&nbsp;[**`uncertain`**][icorbrey/uncertain] - Defines a mathematically uncertain number type for scientific applications.  
 
 ### Give me money.
 
