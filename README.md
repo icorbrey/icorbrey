@@ -5,14 +5,14 @@ Here's where I do it.
 
 #### Problems that are annoying me right now:
 
-[![icorbrey/cisco_ios_dsl](https://gh-card.dev/repos/icorbrey/cisco_ios_dsl.svg)](https://github.com/icorbrey/cisco_ios_dsl)
-[![icorbrey/violentmonkey-scripts](https://gh-card.dev/repos/icorbrey/violentmonkey-scripts.svg)](https://github.com/icorbrey/violentmonkey-scripts)
+[![icorbrey/cisco_ios_dsl](https://github-readme-stats.vercel.app/api/pin/?username=icorbrey&repo=cisco_ios_dsl&theme=github_dark)](https://github.com/icorbrey/cisco_ios_dsl)  
+[![icorbrey/violentmonkey-scripts](https://github-readme-stats.vercel.app/api/pin/?username=icorbrey&repo=violentmonkey-scripts&theme=github_dark)](https://github.com/icorbrey/violentmonkey-scripts)
   
 #### Problems that used to annoy me:
 
-[![icorbrey/sauron](https://gh-card.dev/repos/icorbrey/sauron.svg)](https://github.com/icorbrey/sauron)
-[![icorbrey/pep9-asm](https://gh-card.dev/repos/icorbrey/pep9-asm.svg)](https://github.com/icorbrey/pep9-asm)
-[![icorbrey/react-context-stateful](https://gh-card.dev/repos/icorbrey/react-context-stateful.svg)](https://github.com/icorbrey/react-context-stateful)
+[![icorbrey/sauron](https://github-readme-stats.vercel.app/api/pin/?username=icorbrey&repo=sauron&theme=github_dark)](https://github.com/icorbrey/sauron)  
+[![icorbrey/pep9-asm](https://github-readme-stats.vercel.app/api/pin/?username=icorbrey&repo=pep9-asm&theme=github_dark)](https://github.com/icorbrey/pep9-asm)  
+[![icorbrey/react-context-stateful](https://github-readme-stats.vercel.app/api/pin/?username=icorbrey&repo=react-context-stateful&theme=github_dark)](https://github.com/icorbrey/react-context-stateful)
 
 #### Give me money.
 
