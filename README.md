@@ -16,20 +16,26 @@ Here's where I do it.
 
 #### Give me money.
 
-[Give me money][sponsor-profile] and I'll find more problems to fix.
+Give me money using [GitHub Sponsors][sponsor-link] or [Ko-Fi][kofi-link] and
+I'll find more problems to fix.
   
 ---
 
-[![][badge-linkedin]][social-linkedin]
-[![][badge-medium]][social-medium]
-[![][badge-twitter]][social-twitter]
+[![][linkedin-icon]][linkedin-link]&nbsp;
+[![][printables-icon]][printables-link]&nbsp;
+[![][twitter-icon]][twitter-link]&nbsp;
+[![][kofi-icon]][kofi-link]&nbsp;
 
-[sponsor-profile]: https://github.com/sponsors/icorbrey "Sponsor Isaac Corbrey on GitHub"
+[sponsor-link]: https://github.com/sponsors/icorbrey "Sponsor Isaac Corbrey on GitHub"
 
-[social-medium]: https://blog.isaaccorbrey.com "Follow Isaac Corbrey on Medium"
-[social-twitter]: https://twitter.com/icorbrey "Follow Isaac Corbrey on Twitter"
-[social-linkedin]: https://linkedin.com/in/icorbrey "Connect with Isaac Corbrey on LinkedIn"
+[linkedin-icon]: ./icons/linkedin.svg
+[linkedin-link]: https://linkedin.com/in/icorbrey "Connect with Isaac Corbrey on LinkedIn"
 
-[badge-medium]: https://img.shields.io/static/v1?style=for-the-badge&logo=medium&label=medium&logoColor=white&labelColor=000000&message=@icorbrey&color=333333
-[badge-twitter]: https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&label=twitter&logoColor=white&labelColor=1DA1F2&message=@icorbrey&color=333333
-[badge-linkedin]: https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=linkedin&logoColor=white&labelColor=0A66C2&message=/in/icorbrey&color=333333
+[twitter-icon]: ./icons/twitter.svg
+[twitter-link]: https://twitter.com/icorbrey "Follow Isaac Corbrey on Twitter"
+
+[printables-icon]: ./icons/printables.svg
+[printables-link]: https://www.printables.com/social/247535-icorbrey/about "Check out Isaac Corbrey's models on Printables"
+
+[kofi-icon]: ./icons/kofi.svg
+[kofi-link]: https://ko-fi.com/icorbrey "Support Isaac Corbrey on Ko-Fi"
