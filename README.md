@@ -5,14 +5,14 @@ Here's where I do it.
 
 ### Problems that are annoying me right now:
 
-[![icorbrey/cisco_ios_dsl](https://github-readme-stats.vercel.app/api/pin/?username=icorbrey&repo=cisco_ios_dsl&theme=github_dark)](https://github.com/icorbrey/cisco_ios_dsl)
-[![icorbrey/violentmonkey-scripts](https://github-readme-stats.vercel.app/api/pin/?username=icorbrey&repo=violentmonkey-scripts&theme=github_dark)](https://github.com/icorbrey/violentmonkey-scripts)
+[![][repo-icon] cisco_ios_dsl][icorbrey/cisco_ios_dsl]  
+[![][repo-icon] violentmonkey-scripts][icorbrey/violentmonkey-scripts]  
   
 ### Problems that used to annoy me:
 
-[![icorbrey/pep9-asm](https://github-readme-stats.vercel.app/api/pin/?username=icorbrey&repo=pep9-asm&theme=github_dark)](https://github.com/icorbrey/pep9-asm)
-[![icorbrey/react-context-stateful](https://github-readme-stats.vercel.app/api/pin/?username=icorbrey&repo=react-context-stateful&theme=github_dark)](https://github.com/icorbrey/react-context-stateful)
-[![icorbrey/sauron](https://github-readme-stats.vercel.app/api/pin/?username=icorbrey&repo=sauron&theme=github_dark)](https://github.com/icorbrey/sauron)
+[![][repo-icon] pep9-asm][icorbrey/pep9-asm]  
+[![][repo-icon] react-context-stateful][icorbrey/react-context-stateful]  
+[![][repo-icon] sauron][icorbrey/sauron]
 
 ### Give me money.
 
@@ -25,6 +25,14 @@ I'll find more problems to fix.
 [![][printables-icon]][printables-link]&nbsp;
 [![][twitter-icon]][twitter-link]&nbsp;
 [![][kofi-icon]][kofi-link]&nbsp;
+
+[repo-icon]: ./icons/repo.svg
+
+[icorbrey/sauron]: https://github.com/icorbrey/sauron "Check out icorbrey/sauron on GitHub"
+[icorbrey/pep9-asm]: https://github.com/icorbrey/pep9-asm "Check out icorbrey/pep9-asm on GitHub"
+[icorbrey/cisco_ios_dsl]: https://github.com/icorbrey/cisco_ios_dsl "Check out icorbrey/cisco_ios_dsl on GitHub"
+[icorbrey/violentmonkey-scripts]: https://github.com/icorbrey/violentmonkey-scripts "Check out icorbrey/violentmonkey-scripts on GitHub"
+[icorbrey/react-context-stateful]: https://github.com/icorbrey/react-context-stateful "Check out icorbrey/react-context-stateful on GitHub"
 
 [sponsor-link]: https://github.com/sponsors/icorbrey "Sponsor Isaac Corbrey on GitHub"
 
