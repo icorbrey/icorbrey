@@ -10,9 +10,9 @@ Here's where I do it.
   
 #### Problems that used to annoy me:
 
-[![icorbrey/sauron](https://github-readme-stats.vercel.app/api/pin/?username=icorbrey&repo=sauron&theme=github_dark)](https://github.com/icorbrey/sauron)
 [![icorbrey/pep9-asm](https://github-readme-stats.vercel.app/api/pin/?username=icorbrey&repo=pep9-asm&theme=github_dark)](https://github.com/icorbrey/pep9-asm)
 [![icorbrey/react-context-stateful](https://github-readme-stats.vercel.app/api/pin/?username=icorbrey&repo=react-context-stateful&theme=github_dark)](https://github.com/icorbrey/react-context-stateful)
+[![icorbrey/sauron](https://github-readme-stats.vercel.app/api/pin/?username=icorbrey&repo=sauron&theme=github_dark)](https://github.com/icorbrey/sauron)
 
 #### Give me money.
 
