@@ -6,6 +6,7 @@ Here's where I do it.
 ### Problems that are annoying me right now:
 
 [![][repo-icon]](#)&nbsp;[**`cisco_ios_dsl`**][icorbrey/cisco_ios_dsl] - A DSL for constructing Cisco IOS device configurations.  
+[![][repo-icon]](#)&nbsp;[**`printables-scraper`**][icorbrey/printables-scraper] - An asynchronous web scraper for the Printables model publishing site.  
 [![][repo-icon]](#)&nbsp;[**`violentmonkey-scripts`**][icorbrey/violentmonkey-scripts] - A collection of ViolentMonkey scripts that I use regularly.  
   
 ### Problems that used to annoy me:
@@ -33,6 +34,7 @@ I'll find more problems to fix.
 [icorbrey/pep9-asm]: https://github.com/icorbrey/pep9-asm "Check out icorbrey/pep9-asm on GitHub"
 [icorbrey/uncertain]: https://github.com/icorbrey/uncertain "Check out icorbrey/uncertain on GitHub"
 [icorbrey/cisco_ios_dsl]: https://github.com/icorbrey/cisco_ios_dsl "Check out icorbrey/cisco_ios_dsl on GitHub"
+[icorbrey/printables-scraper]: https://github.com/icorbrey/printables-scraper "Check out icorbrey/printables-scraper on GitHub"
 [icorbrey/violentmonkey-scripts]: https://github.com/icorbrey/violentmonkey-scripts "Check out icorbrey/violentmonkey-scripts on GitHub"
 [icorbrey/react-context-stateful]: https://github.com/icorbrey/react-context-stateful "Check out icorbrey/react-context-stateful on GitHub"
 
