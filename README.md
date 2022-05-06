@@ -5,9 +5,12 @@ Here's where I do it.
 
 ### Currently in progress:
 
-[![][repo-icon]](#)&nbsp;[**`printables-scraper`**][icorbrey/printables-scraper] - An asynchronous web scraper for the Printables model publishing site.  
 [![][repo-icon]](#)&nbsp;[**`violentmonkey-scripts`**][icorbrey/violentmonkey-scripts] - A collection of ViolentMonkey scripts that I use regularly.  
 [![][repo-icon]](#)&nbsp;[**`cisco_ios_dsl`**][icorbrey/cisco_ios_dsl] - A DSL for constructing Cisco IOS device configurations.  
+
+### Coming up soon:
+
+[![][repo-icon]](#)&nbsp;[**`printables-scraper`**][icorbrey/printables-scraper] - An asynchronous web scraper for the Printables model publishing site.  
   
 ### Previous projects:
 
