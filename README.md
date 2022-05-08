@@ -5,12 +5,13 @@ Here's where I do it.
 
 ### Currently in progress:
 
-[![][repo-icon]](#)&nbsp;[**`opengrinder`**][icorbrey/opengrinder] - An open source conical burr coffee grinder.  
+[![][repo-icon]](#)&nbsp;[**`artifice`**][icorbrey/artifice] - An open source 3D modelling program.  
 [![][repo-icon]](#)&nbsp;[**`violentmonkey-scripts`**][icorbrey/violentmonkey-scripts] - A collection of ViolentMonkey scripts that I use regularly.  
 [![][repo-icon]](#)&nbsp;[**`cisco_ios_dsl`**][icorbrey/cisco_ios_dsl] - A DSL for constructing Cisco IOS device configurations.  
 
 ### Coming up soon:
 
+[![][repo-icon]](#)&nbsp;[**`opengrinder`**][icorbrey/opengrinder] - An open source conical burr coffee grinder.  
 [![][repo-icon]](#)&nbsp;[**`printables-scraper`**][icorbrey/printables-scraper] - An asynchronous web scraper for the Printables model publishing site.  
   
 ### Previous projects:
