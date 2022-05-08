@@ -5,7 +5,7 @@ Here's where I do it.
 
 ### Currently in progress:
 
-[![][repo-icon]](#)&nbsp;[**`artifice`**][icorbrey/artifice] - An open source 3D modelling program.  
+[![][repo-icon]](#)&nbsp;[**`artifice`**][icorbrey/artifice] - An intuitive, open source 3D modeling program.
 [![][repo-icon]](#)&nbsp;[**`violentmonkey-scripts`**][icorbrey/violentmonkey-scripts] - A collection of ViolentMonkey scripts that I use regularly.  
 [![][repo-icon]](#)&nbsp;[**`cisco_ios_dsl`**][icorbrey/cisco_ios_dsl] - A DSL for constructing Cisco IOS device configurations.  
 
