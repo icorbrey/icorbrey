@@ -36,6 +36,7 @@ I'll find more problems to fix.
 [repo-icon]: ./icons/repo.svg
 
 [icorbrey/sauron]: https://github.com/icorbrey/sauron "Check out icorbrey/sauron on GitHub"
+[icorbrey/artifice]: https://github.com/icorbrey/artifice "Check out icorbrey/artifice on GitHub"
 [icorbrey/pep9-asm]: https://github.com/icorbrey/pep9-asm "Check out icorbrey/pep9-asm on GitHub"
 [icorbrey/uncertain]: https://github.com/icorbrey/uncertain "Check out icorbrey/uncertain on GitHub"
 [icorbrey/opengrinder]: https://github.com/icorbrey/opengrinder "Check out icorbrey/opengrinder on GitHub"
