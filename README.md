@@ -7,7 +7,6 @@ Here's where I do it.
 
 [![][repo-icon]](#)&nbsp;[**`artifice`**][icorbrey/artifice] - An intuitive, open source 3D modeling program.  
 [![][repo-icon]](#)&nbsp;[**`violentmonkey-scripts`**][icorbrey/violentmonkey-scripts] - A collection of ViolentMonkey scripts that I use regularly.  
-[![][repo-icon]](#)&nbsp;[**`cisco_ios_dsl`**][icorbrey/cisco_ios_dsl] - A DSL for constructing Cisco IOS device configurations.  
 
 ### Coming up soon:
 
@@ -16,6 +15,7 @@ Here's where I do it.
   
 ### Previous projects:
 
+[![][repo-icon]](#)&nbsp;[**`cisco_ios_dsl`**][icorbrey/cisco_ios_dsl] - A DSL for constructing Cisco IOS device configurations.  
 [![][repo-icon]](#)&nbsp;[**`uncertain`**][icorbrey/uncertain] - Defines a mathematically uncertain number type for scientific applications.  
 [![][repo-icon]](#)&nbsp;[**`sauron`**][icorbrey/sauron] - A simple utility for searching for packages on the AUR.  
 [![][repo-icon]](#)&nbsp;[**`react-context-stateful`**][icorbrey/react-context-stateful] - A simple wrapper that makes it easy to create simple, stateful contexts.   
