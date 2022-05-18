@@ -5,6 +5,7 @@ Here's where I do it.
 
 ### Currently in progress:
 
+[![][repo-icon]](#)&nbsp;[**`factoriod`**][icorbrey/factoriod] - A daemon for headless Factorio instances.  
 [![][repo-icon]](#)&nbsp;[**`isaaccorbrey.com`**][icorbrey/isaaccorbrey.com] - My personal website.  
 [![][repo-icon]](#)&nbsp;[**`artifice`**][icorbrey/artifice] - An intuitive, open source 3D modeling program.  
 [![][repo-icon]](#)&nbsp;[**`violentmonkey-scripts`**][icorbrey/violentmonkey-scripts] - A collection of ViolentMonkey scripts that I use regularly.  
@@ -39,6 +40,7 @@ I'll find more problems to fix.
 [icorbrey/sauron]: https://github.com/icorbrey/sauron "Check out icorbrey/sauron on GitHub"
 [icorbrey/artifice]: https://github.com/icorbrey/artifice "Check out icorbrey/artifice on GitHub"
 [icorbrey/pep9-asm]: https://github.com/icorbrey/pep9-asm "Check out icorbrey/pep9-asm on GitHub"
+[icorbrey/factoriod]: https://github.com/icorbrey/factoriod "Check out icorbrey/factoriod on GitHub"
 [icorbrey/uncertain]: https://github.com/icorbrey/uncertain "Check out icorbrey/uncertain on GitHub"
 [icorbrey/opengrinder]: https://github.com/icorbrey/opengrinder "Check out icorbrey/opengrinder on GitHub"
 [icorbrey/cisco_ios_dsl]: https://github.com/icorbrey/cisco_ios_dsl "Check out icorbrey/cisco_ios_dsl on GitHub"
