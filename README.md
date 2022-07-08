@@ -4,7 +4,7 @@ I solve problems. If something annoys me, I'll make it stop one way or another.
 Here's where I do it.
 
 ### Currently in progress:
-
+[![][repo-icon]](#)&nbsp;[**`openscad-analyzer`**][icorbrey/openscad-analyzer] - An OpenSCAD frontend for IDEs.  
 [![][repo-icon]](#)&nbsp;[**`easy-time-tracker`**][icorbrey/easy-time-tracker] - A simple time tracker that stores data locally.  
 [![][repo-icon]](#)&nbsp;[**`factoriod`**][icorbrey/factoriod] - A daemon for headless Factorio instances.  
 [![][repo-icon]](#)&nbsp;[**`isaaccorbrey.com`**][icorbrey/isaaccorbrey.com] - My personal website.  
@@ -47,6 +47,7 @@ I'll find more problems to fix.
 [icorbrey/cisco_ios_dsl]: https://github.com/icorbrey/cisco_ios_dsl "Check out icorbrey/cisco_ios_dsl on GitHub"
 [icorbrey/isaaccorbrey.com]: https://github.com/icorbrey/isaaccorbrey.com "Check out icorbrey/isaaccorbrey.com on GitHub"
 [icorbrey/easy-time-tracker]: https://github.com/icorbrey/easy-time-tracker "Check out icorbrey/easy-time-tracker on GitHub"
+[icorbrey/openscad-analyzer]: https://github.com/icorbrey/openscad-analyzer "Check out icorbrey/openscad-analyzer on GitHub"
 [icorbrey/printables-scraper]: https://github.com/icorbrey/printables-scraper "Check out icorbrey/printables-scraper on GitHub"
 [icorbrey/violentmonkey-scripts]: https://github.com/icorbrey/violentmonkey-scripts "Check out icorbrey/violentmonkey-scripts on GitHub"
 [icorbrey/react-context-stateful]: https://github.com/icorbrey/react-context-stateful "Check out icorbrey/react-context-stateful on GitHub"
