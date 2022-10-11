@@ -4,17 +4,9 @@ I solve problems. If something annoys me, I'll make it stop one way or another.
 Here's where I do it.
 
 ### Currently in progress:
-[![][repo-icon]](#)&nbsp;[**`openscad-analyzer`**][icorbrey/openscad-analyzer] - An OpenSCAD frontend for IDEs.  
 [![][repo-icon]](#)&nbsp;[**`easy-time-tracker`**][icorbrey/easy-time-tracker] - A simple time tracker that stores data locally.  
-[![][repo-icon]](#)&nbsp;[**`factoriod`**][icorbrey/factoriod] - A daemon for headless Factorio instances.  
 [![][repo-icon]](#)&nbsp;[**`isaaccorbrey.com`**][icorbrey/isaaccorbrey.com] - My personal website.  
-[![][repo-icon]](#)&nbsp;[**`artifice`**][icorbrey/artifice] - An intuitive, open source 3D modeling program.  
 [![][repo-icon]](#)&nbsp;[**`violentmonkey-scripts`**][icorbrey/violentmonkey-scripts] - A collection of ViolentMonkey scripts that I use regularly.  
-
-### Coming up soon:
-
-[![][repo-icon]](#)&nbsp;[**`opengrinder`**][icorbrey/opengrinder] - An open source conical burr coffee grinder.  
-[![][repo-icon]](#)&nbsp;[**`printables-scraper`**][icorbrey/printables-scraper] - An asynchronous web scraper for the Printables model publishing site.  
   
 ### Previous projects:
 
