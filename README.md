@@ -24,7 +24,7 @@ If you like my stuff, support me money through [GitHub Sponsors][sponsor-link] o
 [twitter-link]: https://twitter.com/icorbrey "Follow Isaac Corbrey on Twitter"
 
 [printables-icon]: ./icons/printables.svg
-[printables-link]: https://www.printables.com/social/247535-icorbrey/about "Check out Isaac Corbrey's models on Printables"
+[printables-link]: https://www.printables.com/@IsaacCorbrey "Check out Isaac Corbrey's models on Printables"
 
 [kofi-icon]: ./icons/kofi.svg
 [kofi-link]: https://ko-fi.com/icorbrey "Support Isaac Corbrey on Ko-Fi"
