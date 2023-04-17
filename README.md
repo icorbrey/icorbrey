@@ -4,9 +4,8 @@ I solve problems. If something annoys me, I'll make it stop one way or another.
 Here's where I do it.
 
 ### Currently in progress:
-[![][repo-icon]](#)&nbsp;[**`easy-time-tracker`**][icorbrey/easy-time-tracker] - A simple time tracker that stores data locally.  
-[![][repo-icon]](#)&nbsp;[**`isaaccorbrey.com`**][icorbrey/isaaccorbrey.com] - My personal website.  
-[![][repo-icon]](#)&nbsp;[**`violentmonkey-scripts`**][icorbrey/violentmonkey-scripts] - A collection of ViolentMonkey scripts that I use regularly.  
+
+[![][repo-icon]](#)&nbsp;[**`nintendo64-pac`**][icorbrey/nintendo64-pac] - A peripheral access crate for the Nintendo 64.  
   
 ### Previous projects:
 
@@ -37,6 +36,7 @@ I'll find more problems to fix.
 [icorbrey/uncertain]: https://github.com/icorbrey/uncertain "Check out icorbrey/uncertain on GitHub"
 [icorbrey/opengrinder]: https://github.com/icorbrey/opengrinder "Check out icorbrey/opengrinder on GitHub"
 [icorbrey/cisco_ios_dsl]: https://github.com/icorbrey/cisco_ios_dsl "Check out icorbrey/cisco_ios_dsl on GitHub"
+[icorbrey/nintendo64-pac]: https://github.com/icorbrey/nintendo64-pac "Check out icorbrey/nintendo64-pac on GitHub"
 [icorbrey/isaaccorbrey.com]: https://github.com/icorbrey/isaaccorbrey.com "Check out icorbrey/isaaccorbrey.com on GitHub"
 [icorbrey/easy-time-tracker]: https://github.com/icorbrey/easy-time-tracker "Check out icorbrey/easy-time-tracker on GitHub"
 [icorbrey/openscad-analyzer]: https://github.com/icorbrey/openscad-analyzer "Check out icorbrey/openscad-analyzer on GitHub"
