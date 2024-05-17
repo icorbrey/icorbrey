@@ -23,7 +23,7 @@ in Rust and Rust accessories. Take a look at my projects!
 ### Libraries
 
 - [`antsy-ansi`](https://github.com/icorbrey/antsy-ansi): Provides a C++ header for easy generation of
-  ANSI color codes.
+  ANSI color codes. (Archived)
 - [`cisco_ios_dsl`](https://github.com/icorbrey/cisco_ios_dsl): A domain-specific language for
   constructing Cisco IOS device configurations.
 - [`nintendo64-pac`](https://github.com/icorbrey/nintendo64-pac): A peripheral access crate for the
