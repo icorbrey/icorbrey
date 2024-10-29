@@ -3,13 +3,9 @@
 I'm a software engineer based in Fort Wayne, IN. I primarily work on JS/.NET systems, but moonlight
 in Rust and Rust accessories. Take a look at my projects!
 
-### Games and demos
+### Themes
 
-- [Breaker](https://github.com/icorbrey/breaker): A block breaker game, built with Bevy.
-- [Orbital](https://github.com/icorbrey/orbital): An n-body simulator, built with Bevy.
-- [`rustrays`](https://github.com/icorbrey/rustrays): A demo that generates raytraced images based on
-  a preset scene.
-- [Strategem Legend](https://github.com/icorbrey/strategem-legend): A trainer for Helldivers 2 strategems.
+- [Clarity Noir](https://github.com/icorbrey/clarity-noir): A clear, crisp dark theme for pleasant viewing in sunlight.
 
 ### Applications, plugins, and tools
 
@@ -17,23 +13,24 @@ in Rust and Rust accessories. Take a look at my projects!
 - [`pep9-asm`](https://github.com/icorbrey/pep9-asm): Language support for the Pep/9 assembly language
   in Visual Studio Code.
 - [Sauron](https://github.com/icorbrey/sauron): A simple utility for searching for packages on the AUR.
-- [`SplitterGenerator`](https://github.com/icorbrey/SplitterGenerator): Generates specific ratio
-  splitters for Factorio.
 
 ### Libraries
 
-- [`antsy-ansi`](https://github.com/icorbrey/antsy-ansi): Provides a C++ header for easy generation of
-  ANSI color codes. (Archived)
 - [`cisco_ios_dsl`](https://github.com/icorbrey/cisco_ios_dsl): A domain-specific language for
   constructing Cisco IOS device configurations.
 - [`nintendo64-pac`](https://github.com/icorbrey/nintendo64-pac): A peripheral access crate for the
   Nintendo 64.
-- [`prague`](https://github.com/icorbrey/prague): A client library for Apache Kafka, built from the
-  ground up for Rust.
 - [`react-context-stateful`](https://github.com/icorbrey/react-context-stateful): A simple wrapper
   that makes it easy to create simple, stateful contexts.
 - [`uncertain`](https://github.com/icorbrey/uncertain): Defines a mathematically uncertain number type
   for scientific applications.
+
+### Games and demos
+
+- [Orbital](https://github.com/icorbrey/orbital): An n-body simulator, built with Bevy.
+- [`rustrays`](https://github.com/icorbrey/rustrays): A demo that generates raytraced images based on
+  a preset scene.
+- [Strategem Legend](https://github.com/icorbrey/strategem-legend): A trainer for Helldivers 2 strategems.
 
 ### Like what I do?
 
