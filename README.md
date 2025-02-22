@@ -12,6 +12,8 @@ in Rust and Rust accessories. Take a look at my projects!
 - [`gitty`](https://github.com/icorbrey/gitty): Quality of life scripts for Git.
 - [`pep9-asm`](https://github.com/icorbrey/pep9-asm): Language support for the Pep/9 assembly language
   in Visual Studio Code.
+- [`scream_cypher`](https://github.com/icorbrey/scream_cypher): A CLI tool and library for encrypting
+  and decrypting messages using the scream cypher from XKCD 3054.
 - [Sauron](https://github.com/icorbrey/sauron): A simple utility for searching for packages on the AUR.
 
 ### Libraries
